@@ -20,7 +20,6 @@ A lightweight PHP 8 + MySQL retro monochrome CMS/blog/work showcase with:
 php -S 127.0.0.1:8000 -t public
 ```
 
-Then open:
 
 - `http://127.0.0.1:8000/install.php` for first-time install
 - `http://127.0.0.1:8000/index.php` for the public site
